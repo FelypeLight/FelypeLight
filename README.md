@@ -54,7 +54,9 @@
 
 # 🏆 Projeto(s) em destaque:
 
-## Vida4Pets:
+## Vida4Pets: 
+
+**Link Repositório**: !['projeto'](https://github.com/FelypeLight/TCC---BANCA-FINAL-ETEC)
 
 **Uma solução WEB** para agendamento de consultas para animais de estimação. **Seu principal objetivo** é de facilitar o acesso à serviços de clínicas veterinárias sem mesmo sair de casa, além de ser eficaz em situações de emergência.
 
